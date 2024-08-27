@@ -3,7 +3,7 @@
 This project is a solution to the Frontend Mentor IP Address Tracker Challenge. The goal is to build an IP Address Tracker app that closely matches the provided design, using the [IP Geolocation API by IPify](https://geo.ipify.org/) for IP location data and [LeafletJS](https://leafletjs.com/) for map rendering.
 
 ![Design preview for the IP address tracker coding challenge](./docs/design/desktop-preview.jpg)
-[Demo](https://tkadyear.github.io/ip-address-tracker/)
+[Demo](https://vwdr.github.io/IP-Tracker/)
 
 ## Getting started
 
