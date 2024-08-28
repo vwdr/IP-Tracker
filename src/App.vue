@@ -51,7 +51,6 @@ const handleUpdate = (searchIpAddress: string) => {
 </script>
 
 <template>
-  <p> veder </p>
   <div v-if="isLoading" class="container-loader"><div class="loader"></div></div>
   <main class="container">
     <h1 class="title">IP Address Tracker</h1>
