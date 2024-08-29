@@ -63,5 +63,5 @@ The users should be able to:
 - [Mock turtle](https://mockturtle.net/)
 - [Mock Server](https://www.mocks-server.org/docs/integrations/javascript/)
 
-An interesting aspect of my development process for the IP Address Tra was the use of a mock server to simulate API responses. This allowed me to continue building  the application without consuming credits from the actual IP Geolocation API by IPify. By implementing a mock server, I was able to work efficiently and ensure that the app's functionality was intact before integrating the real API, which not only saved resources but also provided a smooth development experience.
+A noteworthy component of my development workflow for the IP Address Tracker involved employing a mock server to emulate API responses. This approach enabled me to advance the application's development while avoiding the expenditure of credits from the actual IP Geolocation API provided by IPify. By utilizing a mock server, I was able to maintain efficient progress and verify the application's functionality prior to the integration of the live API, thereby conserving resources and facilitating a streamlined development process.
 
